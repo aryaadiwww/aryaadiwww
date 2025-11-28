@@ -6,6 +6,9 @@ have hands-on experience in developing integrated projects that combine IoT with
 supported by Android Applications and Websites. Additionally, I have experience in IoT 
 development using SQL, FreeRTOS, and Microcontrollers.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aryaadiwijaya)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aryaadiww/)
+
 <!-- ## 💡 What I Bring to the Table
 
 - Written Codes
