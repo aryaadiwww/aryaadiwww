@@ -19,4 +19,4 @@ development using SQL, FreeRTOS, and Microcontrollers.
 
 ## 📊 Git Stats
 
-![SalamPS's Stats](https://github-readme-stats.vercel.app/api?username=aryaadiwww&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github) -->
+![aryaadiwww Stats](https://github-readme-stats.vercel.app/api?username=aryaadiwww&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
