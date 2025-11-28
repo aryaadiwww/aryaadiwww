@@ -11,7 +11,7 @@ development using SQL, FreeRTOS, and Microcontrollers.
 
 💡 Languages and Tools
 
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,cpp,dart,python,java&perline=50)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,php,cpp,dart,python,java&perline=50)
 
 ![Environment](https://skillicons.dev/icons?i=vscode,figma,postman,sketchup,unity)
 
