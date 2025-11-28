@@ -6,7 +6,7 @@ have hands-on experience in developing integrated projects that combine IoT with
 supported by Android Applications and Websites. Additionally, I have experience in IoT 
 development using SQL, FreeRTOS, and Microcontrollers.
 
-## 💡 What I Bring to the Table
+<!-- ## 💡 What I Bring to the Table
 
 - Written Codes
 
@@ -41,4 +41,4 @@ Thanks for those tools that I've been using on my projects
 
 ## 📊 Git Stats
 
-![SalamPS's Stats](https://github-readme-stats.vercel.app/api?username=SalamPS&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+![SalamPS's Stats](https://github-readme-stats.vercel.app/api?username=SalamPS&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github) -->
