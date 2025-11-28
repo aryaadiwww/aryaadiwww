@@ -9,11 +9,13 @@ development using SQL, FreeRTOS, and Microcontrollers.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aryaadiwijaya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aryaadiww/)
 
-💡 Languages and Tools
+🖥️ Technical Skills:
 
 ![Languages](https://skillicons.dev/icons?i=html,css,javascript,php,cpp,dart,python,java&perline=50)
 
-![Environment](https://skillicons.dev/icons?i=vscode,figma,postman,sketchup,unity)
+![Environment](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,postman,sketchup,unity)
+
+![Environment](https://skillicons.dev/icons?i=flutter,firebase,bootstrap,mysql,laravel)
 
 ![aryaadiwww's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaadiwww&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
