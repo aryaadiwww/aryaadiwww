@@ -10,7 +10,7 @@ development using SQL, FreeRTOS, and Microcontrollers.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aryaadiwijaya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aryaadiww/)
 
-> "If you are born poor it's not your mistake, but if you die poor it's your mistake."
+> *"If you are born poor it's not your mistake, but if you die poor it's your mistake."*
 
 ## 🖥️ Technical Skills
 
@@ -27,7 +27,6 @@ development using SQL, FreeRTOS, and Microcontrollers.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryaadiwww&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryaadiwww/aryaadiwww/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryaadiwww/aryaadiwww/output/pacman-contribution-graph.svg">
