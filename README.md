@@ -17,7 +17,7 @@ development using SQL, FreeRTOS, and Microcontrollers.
 
 ![Environment](https://skillicons.dev/icons?i=flutter,firebase,bootstrap,mysql,laravel)
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryaadiwww&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
