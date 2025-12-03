@@ -26,6 +26,4 @@ development using SQL, FreeRTOS, and Microcontrollers.
 </a>
 </p>
 
-## 💬 Quote
-
-> If you are born poor it's not your mistake, but if you die poor it's your mistake.
+> "If you are born poor it's not your mistake, but if you die poor it's your mistake."
