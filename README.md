@@ -27,5 +27,9 @@ development using SQL, FreeRTOS, and Microcontrollers.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryaadiwww&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-##
-<img src="https://raw.githubusercontent.com/aryaadiwww/aryaadiwww/output/snake.svg" alt="Snake animation" />
+#
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryaadiwww/aryaadiwww/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryaadiwww/aryaadiwww/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryaadiwww/aryaadiwww/output/pacman-contribution-graph.svg">
+</picture>
