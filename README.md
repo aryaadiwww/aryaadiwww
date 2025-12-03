@@ -17,8 +17,15 @@ development using SQL, FreeRTOS, and Microcontrollers.
 
 ![Environment](https://skillicons.dev/icons?i=flutter,firebase,bootstrap,mysql,laravel)
 
-![aryaadiwww's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaadiwww&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### ⚙️ &nbsp;GitHub Analytics
 
-## 📊 Git Stats
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryaadiwww&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryaadiwww&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![aryaadiwww Stats](https://github-readme-stats.vercel.app/api?username=aryaadiwww&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+## 💬 Quote
+
+> If you are born poor it's not your mistake, but if you die poor it's your mistake.
