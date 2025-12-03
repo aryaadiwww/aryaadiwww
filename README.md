@@ -19,11 +19,9 @@ development using SQL, FreeRTOS, and Microcontrollers.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryaadiwww&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aryaadiwww&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
 > "If you are born poor it's not your mistake, but if you die poor it's your mistake."
