@@ -9,6 +9,7 @@ development using SQL, FreeRTOS, and Microcontrollers.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aryaadiwijaya)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/aryaadiww/)
+<a href="mailto:aryawolvess@gmail.com"><img src="https://img.shields.io/badge/-aryawolvess@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 > *"If you are born poor it's not your mistake, but if you die poor it's your mistake."*
 
