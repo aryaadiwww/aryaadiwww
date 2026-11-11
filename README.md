@@ -1,10 +1,9 @@
 # 👋 Hello, I'm Arya!
 
-A Bachelor of Computer Engineering from Universitas Pendidikan Indonesia with a strong interest 
-in the fields of Internet of Things (IoT), Robotics/Mechatronics, and Front-End Development. I 
-have hands-on experience in developing integrated projects that combine IoT with robotic systems, 
-supported by Android Applications and Websites. Additionally, I have experience in IoT 
-development using SQL, FreeRTOS, and Microcontrollers.
+Frontend Engineer and Mobile App Developer with a degree in Computer Engineering from Universitas Pendidikan
+Indonesia (GPA 3.81/4.00) and 1.5+ years of experience at Maestro Swim. Built and launched a Flutter app used by 50+
+coaches and parents, along with React.js and Astro websites supporting company operations, recruitment, and branding.
+Strong foundation in UI/UX design, delivering clean, functional, and user-friendly products across web and mobile.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aryaadiwijaya)
