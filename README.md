@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Arya!
 
-Frontend Engineer and Mobile App Developer with a degree in Computer Engineering from Universitas Pendidikan
+Frontend Engineer, Mobile App Developer and IoT Engineer with a degree in Computer Engineering from Universitas Pendidikan
 Indonesia (GPA 3.81/4.00) and 1.5+ years of experience at Maestro Swim. Built and launched a Flutter app used by 50+
 coaches and parents, along with React.js and Astro websites supporting company operations, recruitment, and branding.
 Strong foundation in UI/UX design, delivering clean, functional, and user-friendly products across web and mobile.
